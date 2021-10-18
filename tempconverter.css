@@ -1,0 +1,58 @@
+h1 {
+    text-align: center;
+}
+section {
+    text-align: center;
+    margin-top: 5%;
+}
+button {
+    margin-top: 2%;
+}
+body {
+    height: 657px;
+}
+#gay {
+    background: linear-gradient(#FF0018, #FFA52C, #FFFF41, #008018, #0000F9, #86007D);
+    background-repeat: no-repeat;
+}
+#bi {
+    background: linear-gradient(#d00070, #8c4799, #0032a0);
+    background-repeat: no-repeat;
+}
+#ace {
+    background: linear-gradient(#000, #a4a4a4, #fff, #810081);
+    background-repeat: no-repeat;
+}
+#lesbian {
+    background: linear-gradient(#D62900, #FF9B55, #FFFFFF, #D461A6, #A50062);
+    background-repeat: no-repeat;
+}
+#nb {
+    background: linear-gradient(#FFF430, #FFFFFF, #9C59D1, #000000);
+    background-repeat: no-repeat;
+}
+#pan {
+    background: linear-gradient(#FF1B8D, #FFDA00, #1BB3FF);
+    background-repeat: no-repeat;
+}
+#totallynotrussia {
+    background: linear-gradient(#fff, #0033a0, #da291c);
+    background-repeat: no-repeat;
+}
+#genderqueer {
+    background: linear-gradient(#B77FDD, #fff, #48821E);
+    background-repeat: no-repeat;
+}
+#germanycuzwhynot {
+    background: linear-gradient(#000, #DD0000, #FFCE00);
+    background-repeat: no-repeat;
+}
+#darkmode {
+    background-color: black;
+    color: white;
+}
+#what {
+    position: absolute;
+    bottom: 0;
+    size: 5px;
+}
